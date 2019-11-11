@@ -12,4 +12,4 @@ this is blue 2 ;
 
 blue do B;
 
-ABCDEFG;
+ABCDE;
